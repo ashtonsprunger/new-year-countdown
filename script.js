@@ -18,7 +18,7 @@ let icon = "https://www.freeiconspng.com/uploads/red-fireworks-png-26.png";
 let occasion = "UNTIL 2021";
 
 // when to count down to
-let date = "Jan 01, 2021 00:00:00";
+let date = "Dec 31, 2020 23:00:00";
 
 // color of the numbers counting down
 let numColor = "blue";
