@@ -15,10 +15,10 @@ let platform = document.getElementById("platform");
 let icon = "https://www.freeiconspng.com/uploads/red-fireworks-png-26.png";
 
 // appears on the screen after the times
-let occasion = "UNTIL 2021";
+let occasion = "UNTIL 2022";
 
 // when to count down to
-let date = "Jan 01, 2021 00:00:00";
+let date = "Jan 01, 2022 00:00:00";
 
 // color of the numbers counting down
 let numColor = "blue";
@@ -142,7 +142,7 @@ const newYears = () => {
 
     let h1 = document.createElement("h1");
 
-    h1.innerHTML = "2021";
+    h1.innerHTML = "2022";
     h1.style.color = "white";
     h1.style.webkitTextStroke = `${size / 30}px`;
     h1.style.webkitTextStrokeColor = "black";
